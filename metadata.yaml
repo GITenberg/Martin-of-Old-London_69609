@@ -1,0 +1,28 @@
+_repo: Martin-of-Old-London_69609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_issued: '2022-12-22'
+identifiers:
+  gutenberg: '69609'
+language: en
+pgterms:marc905: 20221220162158strang
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: Al Haines, John Routh & the online Distributed Proofreaders Canada
+  team at https://www.pgdpcanada.net
+publication_note: 'United Kingdom: Oxford University Press,1925,reprint 1936.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Martin of Old London
+url: http://www.gutenberg.org/ebooks/69609
