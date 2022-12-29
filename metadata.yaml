@@ -1,5 +1,8 @@
 _repo: Martin-of-Old-London_69609
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69609-h/images/cover.jpg
 creator:
   author:
     agent_name: Strang, Herbert
@@ -9,6 +12,8 @@ creator:
     - https://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69609#Martin-of-Old-London
 gutenberg_issued: '2022-12-22'
 identifiers:
   gutenberg: '69609'
